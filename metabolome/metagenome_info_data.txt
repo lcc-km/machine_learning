@@ -1,0 +1,830 @@
+Subject_ID	Group	Stage	Age	Gender	BMI	Brinkman Index	Alcohol	Tumor location																	
+10021	Stage_I_II	I	57	M	26.8809517	130	993	Left colon																	
+10023	Healthy	-	65	M	26.5625	660	0	-																	
+10025	Healthy	-	40	M	25	400	993	-																	
+10029	Healthy	-	67	F	20.17325264	0	0	-																	
+10031	Healthy	-	77	M	24.4646016	300	813	-																	
+10033	Stage_0	0	54	F	24.74745426	0	42.8571	Rectum																	
+10034	HS	-	74	F	23.80480063	0	0	-																	
+10036	Healthy	-	64	F	21.1552942	0	0	-																	
+10037	Healthy	-	66	F	25.41089965	0	423.9	-																	
+10038	Healthy	-	66	F	19.06771066	8	389.9	-																	
+10040	Healthy	-	66	F	21.64127424	0	121.95	-																	
+10046	Healthy	-	65	M	23.66524436	930	921.643	-																	
+10047	Stage_0	0	73	M	22.32142857	2400	149.207	Left colon																	
+10048	Healthy	-	77	F	23.63403301	0	0	-																	
+10052	Healthy	-	65	M	25.39343112	1290	38.5714	-																	
+10055	Stage_0	0	56	F	17.4817898	155	0	Left colon																	
+10058	Healthy	-	59	M	28.84153181	260	993	-																	
+10059	Stage_III_IV	IVB	69	F	25.63691716	490	0	Rectum																	
+10060	Healthy	-	73	F	20.703125	0	0	-																	
+10061	MP	-	41	F	19.921875	500	687	-																	
+10066	HS	-	56	M	22.20408163	330	240	-																	
+10067	Stage_I_II	I	64	F	24.21875	0	0	Right colon																	
+10073	Stage_I_II	I	71	F	29.96432818	0	0	Left colon																	
+10074	Stage_I_II	I	61	M	22.22906193	0	780.214	Left colon																	
+10076	HS	-	73	M	26.57312925	930	1173	-																	
+10077	HS	-	69	M	22.86253448	340	0	-																	
+10078	HS	-	68	F	19.53125	75	0	-																	
+10080	Healthy	-	74	M	20.68515024	0	0	-																	
+10081	Stage_0	0	65	M	21.8299522	0	0	Right colon																	
+10084	HS	-	70	F	20.703125	140	847.9	-																	
+10089	MP	-	54	M	22.40817899	680	549.9	-																	
+10091	Stage_I_II	IIA	70	F	24.73246136	0	0	Left colon																	
+10092	Healthy	-	79	F	24.44444444	0	0	-																	
+10096	HS	-	69	M	21.30681818	420	52.2643	-																	
+10097	Stage_I_II	I	62	F	21.875	0	0	Left colon																	
+10099	Stage_III_IV	IIIA	51	M	20.76124567	405	496.5	Rectum																	
+10100	Healthy	-	70	M	23.66143862	400	294.45	-																	
+10103	Stage_III_IV	IIIB	55	M	24.57786715	30	733.071	Rectum																	
+10105	Healthy	-	66	F	19.55555556	0	13.3333	-																	
+10106	Healthy	-	72	F	22.37034332	0	0	-																	
+10107	Healthy	-	70	M	29.76083761	900	210	-																	
+10109	MP	-	69	M	26.171875	1080	1656	-																	
+10111	MP	-	67	F	22.0603538	235	0	-																	
+10114	Healthy	-	55	F	23.55555556	0	0	-																	
+10115	HS	-	40	F	20.02884153	98	0	-																	
+10118	Stage_III_IV	IIIB	62	F	21.08281329	250	0	Left colon																	
+10119	Stage_I_II	I	76	M	19.17	600	279.9	Left colon																	
+10120	HS	-	38	F	18.13201651	0	0	-																	
+10124	Stage_I_II	I	73	M	22.05805119	1040	38.5714	Rectum																	
+10126	Stage_I_II	I	52	M	31.02040816	640	1173	Rectum																	
+10132	Healthy	-	50	M	24.81632653	300	212.786	-																	
+10134	Stage_0	0	63	F	36.5230095	420	0	Rectum																	
+10135	Healthy	-	65	M	24.28097534	1400	66	-																	
+10138	MP	-	72	M	23.66524436	1400	369.9	-																	
+10140	Stage_0	0	64	F	22.47658689	390	20	Right colon																	
+10144	Healthy	-	77	F	21.28742654	0	0	-																	
+10147	Stage_I_II	I	51	F	18.82711104	30	604.921	Left colon																	
+10150	Healthy	-	78	F	24.03440715	0	0	-																	
+10151	Healthy	-	59	F	22.22222222	0	0	-																	
+10152	Stage_III_IV	IIIA	67	F	24.32322868	0	0	Right colon																	
+10154	Stage_0	0	69	M	22.75830678	800	54	Left colon																	
+10158	Healthy	-	61	M	26.2335558	2400	0	-																	
+10161	MP	-	51	M	21.79820239	570	0	-																	
+10165	Stage_0	0	71	M	26.21882086	440	76.05	Left colon and Right colon																	
+10168	Stage_III_IV	IIIB	78	M	22.67995241	48	11.5714	Rectum																	
+10169	Healthy	-	76	M	22.10028959	600	5.6	-																	
+10171	Stage_III_IV	IVB	30	M	25.68956193	0	104.979	Left colon																	
+10177	Stage_0	0	67	M	23.59700421	740	0	Rectum																	
+10178	Stage_III_IV	IIIB	69	F	23.55555556	0	0	Rectum																	
+10182	MP	-	52	M	22.5710475	0	297.707	-																	
+10183	Healthy	-	68	M	23.7953599	3200	1953	-																	
+10185	Stage_I_II	IIA	65	M	21.71806609	940	189.9	Right colon																	
+10188	Healthy	-	71	F	18.01720643	0	0	-																	
+10191	Stage_III_IV	IIIB	59	M	25.4580659	1360	579.9	Rectum and Left colon																	
+10193	MP	-	58	M	21.95247934	600	0	-																	
+10195	Stage_III_IV	IIIB	57	F	18.36900337	0	7.2	Right colon																	
+10198	Stage_0	0	76	F	29.01307967	0	0	Right colon																	
+10199	Stage_I_II	I	64	M	23.05175491	120	496.5	Rectum																	
+10200	Healthy	-	49	F	19.6311176	0	62.1214	-																	
+10201	Stage_III_IV	IVA	38	M	24.39105884	216	0	Right colon																	
+10203	Stage_0	0	60	M	27.06405159	820	0	Right colon																	
+10206	Healthy	-	71	M	25.15589569	1520	633	-																	
+10207	Healthy	-	73	M	25.81663021	960	549.9	-																	
+10208	Healthy	-	77	M	24.609375	400	1320	-																	
+10209	MP	-	64	F	31.11111111	0	0	-																	
+10212	Healthy	-	70	M	29.27099403	1000	70.7143	-																	
+10213	Stage_III_IV	IVA	49	M	26.12244898	750	67.5333	Rectum																	
+10215	Healthy	-	78	F	20.42941836	0	0	-																	
+10219	Healthy	-	68	M	21.383942	1290	0	-																	
+10220	HS	-	67	F	22.82996433	0	0	-																	
+10221	Healthy	-	70	M	22.0603538	0	687	-																	
+10223	Healthy	-	66	M	23.66524436	1200	270	-																	
+10226	Healthy	-	60	M	22.22906193	100	933	-																	
+10229	Healthy	-	66	M	24.6097337	1800	993	-																	
+10230	HS	-	50	F	27.99302203	0	0	-																	
+10231	Healthy	-	72	M	25.20920136	300	556.5	-																	
+10232	Stage_III_IV	IIIA	64	M	22.46003435	800	18.26	Rectum																	
+10233	HS	-	55	M	19.37716263	960	1296	-																	
+10235	Healthy	-	62	F	22.64086462	420	369.9	-																	
+10236	Stage_I_II	I	47	M	23.56663223	0	389.9	Rectum																	
+10238	Stage_III_IV	IVB	66	F	22.60026298	0	0	Right colon																	
+10241	HS	-	42	F	19.43301326	130	0	-																	
+10242	MP	-	58	F	34.80874965	560	0	-																	
+10244	Healthy	-	74	M	25.05930703	0	180	-																	
+10246	Healthy	-	64	F	23.19109462	760	360	-																	
+10248	Stage_I_II	IIA	62	M	23.95122659	840	813	Rectum																	
+10249	Stage_I_II	IIC	47	M	21.4532872	625	502.857	Rectum																	
+10250	Healthy	-	47	M	20.67901235	0	316.5	-																	
+10251	MP	-	64	M	21.79930796	930	0	-																	
+10252	HS	-	55	F	18.82711104	0	633	-																	
+10254	Healthy	-	67	F	19.67516685	0	22.9267	-																	
+10255	HS	-	64	F	24.77679525	0	0	-																	
+10256	HS	-	70	M	27.35884546	560	687	-																	
+10258	Healthy	-	42	M	33.14	0	0	-																	
+10259	Healthy	-	69	M	24.39105884	2340	0	-																	
+10260	Stage_III_IV	IIIB	63	F	20.13477975	0	0	Right colon																	
+10261	MP	-	70	F	25.5367036	0	0	-																	
+10262	Healthy	-	45	M	22.22222222	0	0	-																	
+10265	Stage_I_II	I	73	M	24.6097337	40	42.2	Rectum																	
+10266	Stage_III_IV	IVB	65	M	21.30394858	0	0	Right colon																	
+10267	Stage_I_II	IIA	60	F	20.82999519	1050	1899	Right colon																	
+10268	HS	-	70	F	20.07733492	0	0	-																	
+10269	Healthy	-	76	F	24.97398543	140	180	-																	
+10271	Healthy	-	68	M	22.83737024	0	0	-																	
+10273	Healthy	-	69	F	22.95908766	0	0	-																	
+10274	Healthy	-	62	F	19.05197378	0	94.95	-																	
+10275	HS	-	69	M	23.45856238	660	191.636	-																	
+10277	Stage_I_II	I	73	F	16.88019391	0	0	Rectum																	
+10280	HS	-	38	M	19.95728441	0	0	-																	
+10281	HS	-	72	F	26.3778981	0	0	-																	
+10282	HS	-	72	M	24.24242424	250	0	-																	
+10283	HS	-	77	M	30.33	0	0	-																	
+10284	Stage_III_IV	IVA	73	M	23.33546614	820	638.786	Rectum																	
+10285	HS	-	57	M	21.04804761	0	454.85	-																	
+10286	HS	-	57	F	23.12467037	0	0	-																	
+10288	MP	-	59	F	20.06095444	1600	1266	-																	
+10290	HS	-	68	M	22.94811574	500	27	-																	
+10294	MP	-	74	F	19.14672216	0	0	-																	
+10299	MP	-	78	M	27.34375	165	0	-																	
+10301	Healthy	-	77	F	22.85714286	520	369.9	-																	
+10302	Healthy	-	64	M	20.51913409	100	243.9	-																	
+10303	Stage_III_IV	IIIB	44	F	26.6727633	0	0	Right colon																	
+10304	Healthy	-	44	M	22.05219018	180	687	-																	
+10306	Stage_I_II	I	69	M	19.43301326	0	0	Right colon																	
+10307	Stage_III_IV	IIIB	49	F	22.64086462	0	62.1214	Left colon																	
+10308	Stage_I_II	IIA	69	F	20.613131	0	44.2	Left colon																	
+10309	Stage_I_II	I	70	M	26.76977989	0	921.643	Right colon																	
+10312	HS	-	64	F	17.54309022	6	0	-																	
+10313	HS	-	62	F	21.17021756	50	316.5	-																	
+10315	Healthy	-	59	F	20.02884153	40	633	-																	
+10317	Healthy	-	68	M	23.1206236	0	149.207	-																	
+10318	Healthy	-	75	F	18.36547291	0	19.3267	-																	
+10320	Healthy	-	70	M	25.71166208	720	180	-																	
+10322	Stage_III_IV	IIIB	70	F	21.90758246	0	0	Left colon and Right colon																	
+10323	Stage_I_II	IIA	68	F	21.78649237	300	138	Rectum																	
+10324	Stage_I_II	I	66	M	24.67550027	920	156.407	Left colon																	
+10325	Healthy	-	72	M	22.13673973	900	0	-																	
+10327	MP	-	60	M	28.40909091	800	696	-																	
+10329	HS	-	65	F	22.2136785	0	0	-																	
+10330	Stage_I_II	IIA	66	M	22.05805119	980	0	Rectum																	
+10332	Stage_III_IV	IVA	61	M	28.29334541	1680	0	Left colon and Right colon																	
+10333	Stage_I_II	IIA	45	M	20.61925365	250	618.357	Rectum																	
+10334	Stage_0	0	63	F	21.36752137	0	157.143	Rectum																	
+10335	Healthy	-	75	M	22.30814991	390	0	-																	
+10336	MP	-	67	M	23.14725512	740	54	-																	
+10338	Stage_0	0	57	M	25.43268596	240	102.143	Right colon																	
+10339	Healthy	-	76	M	23.828125	2120	0	-																	
+10340	Healthy	-	45	F	19.22768787	0	157.071	-																	
+10341	Healthy	-	58	F	22.54657648	0	0	-																	
+10345	Stage_0	0	73	F	26.57312925	530	141.429	Right colon																	
+10349	Healthy	-	62	F	19.921875	0	172.779	-																	
+10350	Healthy	-	67	F	26.04166667	0	0	-																	
+10353	Healthy	-	50	F	20.34279778	325	321	-																	
+10354	Healthy	-	60	F	21.11090261	0	0	-																	
+10356	Healthy	-	76	M	23.7953599	340	47.1429	-																	
+10357	Healthy	-	71	F	24.609375	0	222.279	-																	
+10358	Stage_0	0	61	F	24.609375	0	16.26	Right colon																	
+10362	Healthy	-	76	M	25.88057064	0	194.95	-																	
+10364	Healthy	-	66	M	23.4375	400	0	-																	
+10366	Stage_0	0	72	M	20.90419501	2080	813	Left colon																	
+10368	HS	-	41	F	22.37567995	300	700	-																	
+10371	Stage_I_II	I	57	F	24.45606342	300	0	Left colon																	
+10374	HS	-	49	M	22.69401893	0	149.207	-																	
+10377	Stage_I_II	IIA	73	F	22.15102251	0	0	Right colon																	
+10378	Healthy	-	74	M	19.33372992	560	274.95	-																	
+10380	Stage_III_IV	IIIC	28	M	26.29757785	0	0	Rectum																	
+10385	Stage_0	0	71	M	27.34375	1060	1266	Left colon																	
+10389	Stage_I_II	I	70	M	21.04804761	440	813	Rectum																	
+10456	Healthy	-	74	M	20.61925365	700	1113	-																	
+10459	Stage_I_II	IIA	73	F	19.56295525	0	0	Rectum																	
+10461	Stage_III_IV	IIIC	46	M	19.15119182	560	1203	Rectum																	
+10462	Stage_I_II	I	61	F	21.64127424	0	0	Rectum																	
+10463	Healthy	-	76	F	19.11111111	0	12.66	-																	
+10464	Stage_I_II	I	76	M	24.65303141	2240	180	Rectum																	
+10465	Healthy	-	47	F	22.37567995	0	45.8	-																	
+10468	Stage_III_IV	IVA	52	M	23.25501864	640	348	Rectum																	
+10469	Stage_I_II	I	69	M	16.14152893	765	0	Left colon																	
+10470	MP	-	66	M	18.37682515	400	843	-																	
+10471	MP	-	75	M	21.45357371	620	0	-																	
+10473	Healthy	-	71	M	22.64737696	320	219.9	-																	
+10476	Stage_III_IV	Ivb	70	F	17.34842951	0	0	Right colon																	
+10480	Stage_I_II	I	53	M	20.76124567	400	1037.14	Rectum																	
+10483	Stage_III_IV	IVA	63	F	17.4817898	495	0	Rectum																	
+10484	MP	-	73	M	21.0076678	150	243.9	-																	
+10485	MP	-	74	M	28.68514468	300	219.9	-																	
+10486	Healthy	-	65	F	19.81892708	0	0	-																	
+10487	Healthy	-	78	M	21.09375	600	0	-																	
+10489	Healthy	-	78	M	22.86236854	20	0	-																	
+10492	Stage_III_IV	IVA	63	M	24.85907356	420	693	Rectum																	
+10503	Stage_I_II	IIA	69	M	25.72755521	1350	24	Right colon																	
+10505	Stage_I_II	IIA	65	F	17.99307958	450	0	Rectum																	
+10508	Healthy	-	67	M	21.45357371	0	40.6929	-																	
+10510	Healthy	-	52	M	21.30394858	640	549.9	-																	
+10513	Stage_III_IV	IVA	70	M	20.57613169	300	0	Right colon																	
+10514	Stage_III_IV	IVA	59	M	24.84098009	780	360	Right colon																	
+10519	Healthy	-	71	M	22.94213045	0	0	-																	
+10523	Stage_I_II	IIA	50	M	23.49	0	0	Rectum																	
+10525	Stage_I_II	I	68	M	23.87511478	1920	540	Rectum																	
+10527	Stage_III_IV	IVA	62	M	24.61810377	630	1899	Right colon																	
+10532	Stage_III_IV	IIIC	60	M	23.22543185	0	0	Left colon																	
+10537	Healthy	-	76	F	23.42209073	0	0	-																	
+10541	Healthy	-	53	F	18.66201469	0	19.3267	-																	
+10542	Stage_I_II	IIA	71	F	31.11111111	800	0	Rectum																	
+10543	Healthy	-	55	M	26.81221871	350	150	-																	
+10545	Stage_0	0	66	F	20.42941836	0	0	Rectum																	
+10548	MP	-	71	M	21.1552942	460	15	-																	
+10550	Stage_I_II	I	74	F	25.73	0	0	Rectum																	
+10556	Stage_III_IV	IIIB	45	F	23.42236836	0	174.214	Rectum																	
+10559	Healthy	-	41	F	20.32443826	105	70.6667	-																	
+10566	Stage_III_IV	IVA	59	F	22.65625	330	0	Left colon																	
+10569	MP	-	65	M	24.85907356	450	117.067	-																	
+10570	Healthy	-	45	M	23.95122659	0	822	-																	
+10571	MP	-	64	M	22.40587695	10	191.636	-																	
+10572	MP	-	58	M	23.87511478	100	496.5	-																	
+10576	Stage_0	0	72	M	22.03856749	0	0	"Rectum, Left colon and Right colon"																	
+10577	Healthy	-	61	F	27.00513097	0	0	-																	
+10581	MP	-	72	F	17.14677641	0	149.207	-																	
+10584	Stage_I_II	IIA	51	M	22.72440348	330	135.643	Right colon																	
+10585	Healthy	-	66	F	31.62421994	0	2	-																	
+10586	Healthy	-	78	M	22.15102251	420	0	-																	
+10589	Healthy	-	75	F	22.66666667	0	0	-																	
+10591	Healthy	-	51	M	29.04370899	840	0	-																	
+10592	Healthy	-	54	M	23.71184463	100	16.26	-																	
+10593	Healthy	-	61	M	25.95155709	820	526.5	-																	
+10598	Stage_I_II	I	65	M	25.05930703	240	549.9	Rectum																	
+10604	Stage_III_IV	Iva	69	M	21.51385851	980	0	Left colon																	
+10608	MP	-	73	M	21.79930796	800	141.429	-																	
+10609	Stage_I_II	IIA	51	M	18.16620425	310	813	Right colon																	
+10610	MP	-	59	M	24.39105884	1500	330	-																	
+10614	MP	-	59	M	22.39541342	300	369.9	-																	
+10615	Stage_I_II	IIA	75	F	18.97453196	0	0	Right colon																	
+10616	Stage_III_IV	IIIB	64	M	23.10843458	320	84.2	Rectum																	
+10618	Healthy	-	73	F	20.69049454	516	633	-																	
+10619	MP	-	58	M	21.97133586	570	340.714	-																	
+10620	Healthy	-	63	M	20.89795918	10	189.9	-																	
+10621	Healthy	-	60	M	20.80856124	560	687	-																	
+10622	Healthy	-	62	F	18.19548277	60	0	-																	
+10627	Healthy	-	57	M	23.24380165	620	813	-																	
+10628	Stage_I_II	I	73	F	18.31425598	0	0	Right colon																	
+10630	MP	-	52	M	21.04804761	0	56.2	-																	
+10632	Healthy	-	76	M	25.96952909	380	0	-																	
+10634	MP	-	70	M	20.90419501	1500	741	-																	
+10635	Stage_III_IV	IIIB	77	M	23.33768443	0	0	Right colon																	
+10639	Healthy	-	40	M	22.98190175	100	316.5	-																	
+10642	MP	-	60	M	25.95155709	1200	540	-																	
+10644	Stage_I_II	I	64	M	22.67995241	660	141.429	Rectum																	
+10645	Stage_III_IV	IIIA	49	F	19.38214469	435	0	Rectum																	
+10646	Stage_III_IV	IIIC	67	F	20.17455375	0	0	Rectum																	
+10647	Healthy	-	76	M	21.79930796	720	289.45	-																	
+10648	Stage_0	0	70	F	23.14049587	450	0	Left colon																	
+10656	Stage_III_IV	IIIB	70	M	24.24242424	880	0	Rectum																	
+10657	Healthy	-	69	M	24.28097534	0	12.66	-																	
+10659	Healthy	-	76	M	20.79672989	1200	0	-																	
+10660	Stage_III_IV	IIIB	67	F	25.43748081	0	54	Rectum																	
+10661	Healthy	-	49	F	22.30814991	0	189.9	-																	
+10663	Healthy	-	73	M	24.30248706	860	360	-																	
+10665	Stage_III_IV	IIIB	64	M	20.44674202	880	180	Rectum																	
+10667	Stage_I_II	IIA	68	M	24.76756592	720	638.786	Left colon																	
+10668	Stage_I_II	I	74	M	25.95155709	0	0	Rectum																	
+10670	Stage_I_II	I	69	M	19.36247266	0	549.9	Rectum																	
+10671	Stage_I_II	I	71	M	22.48132907	1755	0	Left colon																	
+10674	Stage_I_II	I	47	M	35.20104514	30	0	Rectum																	
+10675	Stage_I_II	IIA	55	M	26.17519452	500	174.214	Rectum																	
+10678	Healthy	-	46	F	19.95935549	0	0	-																	
+10684	Healthy	-	61	F	18.59103675	0	0	-																	
+10694	Stage_I_II	I	53	M	26.36560303	370	993	Rectum																	
+10695	MP	-	53	M	27.99036281	640	73.4667	-																	
+10697	Stage_0	0	47	F	18.06616734	6	0	Rectum																	
+10698	Healthy	-	71	M	23.38435374	450	0	-																	
+10700	Stage_I_II	IIA	77	M	24.6097337	2400	1183	Right colon																	
+10701	Healthy	-	42	M	26.17383255	216	994.714	-																	
+10709	Stage_I_II	I	56	F	23.01117686	200	66.2	Rectum																	
+10713	Stage_I_II	I	63	M	19.75308642	840	289.9	Right colon																	
+10714	Stage_III_IV	IVA	59	F	20.9566075	192	0	Left colon																	
+10715	Stage_III_IV	IIIB	60	M	23.42355741	0	1266	Right colon																	
+10716	Healthy	-	49	F	21.23057202	280	227.779	-																	
+10717	Stage_I_II	I	69	M	22.83950617	1140	0	Right colon																	
+10718	Stage_I_II	I	52	M	23.66524436	640	546.857	Rectum																	
+10720	Stage_I_II	IIA	39	M	19.37919743	0	14.66	Right colon																	
+10722	Stage_0	0	67	F	21.45726808	98	539.786	Right colon																	
+10723	Stage_I_II	I	73	M	23.30668005	0	0	Rectum																	
+10725	Stage_III_IV	IIIA	78	M	25.90945695	1250	0	Rectum																	
+10726	Healthy	-	69	M	22.14532872	300	549.9	-																	
+10728	MP	-	63	M	23.59700421	300	0	-																	
+10731	Stage_I_II	I	60	M	21.29529475	960	360	Rectum																	
+10733	Healthy	-	63	M	22.05805119	600	0	-																	
+10741	Healthy	-	70	M	24.22145329	200	813	-																	
+10745	Stage_I_II	I	69	F	19.77769867	0	0	Right colon																	
+10747	Stage_III_IV	IVB	62	M	25.59373706	640	0	Rectum																	
+10749	Stage_0	0	65	F	24.91990032	0	0	Right colon																	
+10754	Stage_III_IV	IIIB	46	F	17.44492677	56	1366	Rectum																	
+10756	Stage_0	0	50	M	22.05219018	800	347.786	Rectum																	
+10759	MP	-	63	M	20.14797199	800	549.9	-																	
+10760	Stage_III_IV	IIIB	59	F	20.504934	100	14.66	Left colon																	
+10761	Stage_III_IV	IIIA	54	F	20.56880661	0	0	Left colon																	
+10762	Stage_I_II	I	63	F	19.81784449	0	0	Right colon																	
+10765	Stage_III_IV	IIIB	49	M	37.55102041	200	16.86	Right colon																	
+10766	MP	-	69	M	25.01352082	600	993	-																	
+10767	Stage_I_II	IIA	72	M	24.69040546	980	406.5	Left colon																	
+10772	Stage_III_IV	IIIA	59	M	25.05930703	0	66.2	Rectum																	
+10774	Stage_I_II	I	61	F	23.61275089	0	0	Rectum																	
+10775	Stage_I_II	I	66	M	18.71094925	1440	109.95	Left colon																	
+10776	Healthy	-	42	F	25.59373706	0	174.214	-																	
+10784	Healthy	-	49	M	27.39817568	870	360	-																	
+10785	Stage_0	0	62	F	22.03172568	0	24.66	Right colon																	
+10794	Healthy	-	54	F	22.18934911	0	400	-																	
+10801	Healthy	-	68	F	19.50059453	0	0	-																	
+10804	Healthy	-	74	F	24.34960912	0	0	-																	
+10805	Healthy	-	54	F	19.6282647	0	0	-																	
+10807	Healthy	-	74	F	20.83	1060	0	-																	
+10809	MP	-	66	F	20.23950076	0	0	-																	
+10811	MP	-	48	M	19.10009183	660	1899	-																	
+10812	Stage_I_II	I	64	M	23.83673469	600	638.786	Rectum																	
+10813	Stage_III_IV	IIIB	32	F	22.34778209	240	0	Rectum																	
+10814	Stage_0	0	78	M	29.7210791	1350	0	Rectum																	
+10816	Stage_I_II	IIA	70	F	23.06805075	0	0	Right colon																	
+10817	Healthy	-	65	F	24.32322868	0	0	-																	
+10818	Stage_III_IV	IIIA	75	F	22.22222222	0	180.643	Left colon																	
+10825	MP	-	74	M	23.05175491	520	42.4286	-																	
+10827	Stage_I_II	IIA	73	M	22.91303307	1350	180	Right colon																	
+10829	Stage_I_II	I	52	M	26.42356982	720	180	Rectum																	
+10835	Healthy	-	74	M	20.703125	1170	274.95	-																	
+10838	Healthy	-	75	F	21.17021756	0	0	-																	
+10839	Stage_III_IV	IVB	58	M	19.605192	320	189.9	Rectum																	
+10847	Stage_III_IV	IIIB	73	F	20.54569362	0	0	Right colon																	
+10850	Healthy	-	51	M	28.38480216	450	358.5	-																	
+10853	Stage_0	0	65	M	27.18089991	940	273.9	Left colon																	
+00001	Stage_III_IV	IVA	69	F	22.50692521	0	0	Rectum																	
+10030	Stage_I_II	I	58	M	24.02380867	740	0	Right colon																	
+10170	HS	-	61	F	24.97398543	0	0	-																	
+10194	HS	-	42	F	20.3125	0	0	-																	
+10197	Healthy	-	68	F	18.85882198	0	298.571	-																	
+10210	MP	-	50	M	23.67125363	0	780.214	-																	
+10237	Stage_I_II	I	64	F	18.02595738	660	0	Rectum																	
+10239	HS	-	43	F	21.77843524	0	0	-																	
+10272	Healthy	-	44	M	24.16326531	360	1806	-																	
+10296	MP	-	78	M	23.03004535	580	1273	-																	
+10298	Healthy	-	76	M	22.86253448	400	155.571	-																	
+10316	MP	-	44	M	22.12973973	400	1899	-																	
+10365	HS	-	50	F	20.02884153	0	194.95	-																	
+10367	Stage_III_IV	IIIB	58	M	28.05570579	1600	0	Rectum																	
+10376	MP	-	64	M	24.15881797	1260	180	-																	
+10390	Healthy	-	68	F	24.32322868	380	0	-																	
+10466	MP	-	64	M	18.77834467	880	364.95	-																	
+10497	Healthy	-	65	M	21.56454491	0	36	-																	
+10502	MP	-	71	M	18.359375	0	993	-																	
+10504	Healthy	-	67	F	21.90758246	0	0	-																	
+10511	MP	-	65	F	20.42941836	0	0	-																	
+10512	Healthy	-	78	F	20.69049454	0	0	-																	
+10515	Healthy	-	66	F	22.34778209	0	135.643	-																	
+10517	MP	-	52	M	22.58270917	640	55.5333	-																	
+10544	Stage_III_IV	IIIB	48	M	23.03004535	200	12.66	Rectum																	
+10549	MP	-	72	F	19.31295201	0	40.6929	-																	
+10555	MP	-	53	M	23.38435374	460	1173	-																	
+10562	Healthy	-	56	M	26.85440557	540	178.5	-																	
+10565	Stage_0	0	61	M	22.39541342	0	0	Left colon																	
+10568	Stage_0	0	58	M	22.53061224	200	780.214	Right colon																	
+10578	Stage_III_IV	IIIA	65	M	21.383942	240	993	Right colon																	
+10579	Stage_0	0	69	M	24.6097337	560	0	Left colon																	
+10580	MP	-	58	M	25.40281608	570	130	-																	
+10582	Stage_III_IV	IVA	70	M	18.96192742	1000	0	Rectum																	
+10583	Healthy	-	67	M	25.0995016	165	90	-																	
+10587	Healthy	-	62	F	25.15315023	410	141.429	-																	
+10595	Stage_I_II	IIA	66	M	20.54569362		0	Rectum																	
+10596	Stage_0	0	74	F	19.43634597	0	0	Left colon																	
+10601	Stage_0	0	65	M	20.24489796	800	42.4286	Rectum																	
+10603	Stage_I_II	IIA	48	F	22.89281998	560	0	Rectum																	
+10681	MP	-	72	M	49.53513184	875	0	-																	
+10780	MP	-	77	M	19.48696145	885	180	-																	
+10788	Healthy	-	74	M	22.58955144	150	0	-																	
+10793	MP	-	55	M	25.2493372	0	469.9	-																	
+10797	Healthy	-	70	F	25.33333333	0	316.5	-																	
+10802	Healthy	-	77	M	20.43816558	90	0	-																	
+10803	HS	-	78	F	24.77365884	980	0	-																	
+10806	HS	-	51	F	18.08021039	90	669.9	-																	
+10808	Healthy	-	60	M	19.48696145	400	813	-																	
+10819	Stage_I_II	II	62	F	29.296875	0	0	Right colon																	
+10831	MP	-	58	M	22.85714286	520	234.95	-																	
+10832	Healthy	-	55	M	24.09297052	0	0	-																	
+10860	Stage_0	0	59	M	24.50894577	500	496.5	Right colon																	
+10866	Stage_0	0	48	M	28.30599506	300	843	Left colon																	
+10869	Healthy	-	69	M	22.40817899	0	0	-																	
+10880	Stage_0	0	67	M	30.47721924	390	24.66	Right colon																	
+10887	Stage_I_II	I	46	M	22.85714286	520	720	Left colon																	
+10888	Stage_0	0	73	M	23.72528616	680	0	Left colon																	
+10889	Healthy	-	54	F	20.77562327	0	0	-																	
+10890	Healthy	-	68	F	18.66201469	0	11.5714	-																	
+10907	Healthy	-	37	M	25.01352082	140	1266	-																	
+10911	Stage_0	0	61	M	27.47562949	900	549.9	Left colon																	
+10913	Healthy	-	46	M	22.47120876	0	21.3267	-																	
+10924	Healthy	-	46	F	23.046875	520	0	-																	
+10931	Stage_III_IV	III	67	M	24.67550027	1540	360	Left colon and Rectum																	
+10934	Stage_0	0	66	M	22.13673973	1680	180	Right colon																	
+10935	Stage_0	0	74	M	22.54657648	600	84	Right colon																	
+10938	Stage_I_II	I	55	M	25.35154137	0	809.207	Rectum																	
+10947	Healthy	-	58	M	20.30369756	600	1356.14	-																	
+10967	Stage_0	0	66	M	22.14532872	360	234	Right colon																	
+10968	Healthy	-	43	F	16.796875	0	0	-																	
+10975	Stage_0	0	60	F	20.02884153	0	0	Right colon																	
+10976	Healthy	-	52	M	25.01352082	150	1214.71	-																	
+10980	Stage_0	0	65	F	18.26150475	860	0	Right colon																	
+10989	Stage_0	0	65	M	20.01549587	720	290.636	Rectum																	
+10990	Healthy	-	58	F	18.5528757	0	0	-																	
+10992	Stage_0	0	58	M	23.1206236	680	360	Left colon																	
+11006	Stage_0	Stage_0	75	M	19.70553242	70	46.5	Right colon																	
+11008	Stage_0	0	61	F	22.47658689	0	0	Left colon and Right colon																	
+11010	Stage_I_II	I	75	M	22.86253448	440	411.636	Rectum																	
+11011	Stage_0	0	72	M	23.66524436	0	78.2	Rectum																	
+11029	Stage_0	0	66	M	23.87511478	840	12.66	Right colon																	
+11030	Stage_I_II	I	58	F	17.1875	0	0	Left colon																	
+11031	Healthy	-	66	M	24.8015873	0	733	-																	
+11035	Healthy	Normal	73	F	21.60410478	380	168	-																	
+11036	Stage_I_II	I	48	M	25.64891762	435	219.9	Left colon																	
+11045	Stage_I_II	I	73	M	23.87511478	600	0	Left colon and Right colon																	
+11048	Stage_0	0	65	F	20.3125	0	0	Right colon																	
+11049	Healthy	-	61	F	21.07719523	0	180.429	-																	
+11054	Stage_I_II	I	75	M	20.9566075	1020	141.429	Left colon																	
+11057	Healthy	-	71	F	17.34842951	0	0	-																	
+11062	Healthy	-	48	M	21.67211013	300	620.714	-																	
+11074	HS	Normal	42	F	17.94181725	110	120	-																	
+11081	Stage_I_II	I	72	M	19.94321255	320	54	Right colon																	
+11085	Stage_I_II	I	63	M	23.50780533	400	432.064	Left colon																	
+11097	Stage_I_II	I	79	F	17.66929652	0	0	Right colon																	
+11103	Stage_I_II	I	44	M	28.99789384	720	0	Left colon																	
+11106	Healthy	Normal	44	M	23.83673469	200	189.9	-																	
+11110	Stage_0	0	61	M	22.58955144	740	497.357	Right colon																	
+11121	Stage_0	0	46	M	25.40281608	0	633	Right colon																	
+11124	Healthy	-	77	M	20.57142857	195	190	-																	
+11128	Stage_I_II	I	67	M	21.33333333	0	0	Right colon																	
+11132	Stage_I_II	I	62	M	19.83471074	255	1266	Left colon																	
+11141	Stage_I_II	I	66	F	21.23057202	0	0	Rectum																	
+11151	Stage_0	0	76	M	19.00390835	1680	0	Rectum																	
+11159	Healthy	Normal	63	F	27.54820937	840	216.8	-																	
+11162	Stage_I_II	I	62	M	21.09375	40	0	Left colon																	
+11168	Healthy	Few_polyps	55	M	23.38868656	700	212.786	-																	
+11170	Healthy	Normal	32	M	18.73278237	0	49.4	-																	
+11171	Healthy	Few_polyps	77	M	20.43816558	1200	52.2643	-																	
+11203	Healthy	Few_polyps	34	M	21.85727788	72	385.5	-																	
+11209	Healthy	Few_polyps	37	M	25.34435262	320	212.786	-																	
+11210	Healthy	-	68	F	19.22337562	0	0	-																	
+11213	Healthy	Normal	51	M	19.15708812	50	780.214	-																	
+11223	Healthy	Normal	63	M	21.10726644	525	316.5	-																	
+11224	Stage_0	0	78	F	21.2191358	0	0	Right colon																	
+11226	Healthy	Normal	51	F	19.43301326	0	3.6	-																	
+11227	Healthy	-	72	M	23.05456246	1440	360	-																	
+11237	Stage_0	0	66	F	22.0603538	32	19.3267	Right colon																	
+11238	Stage_I_II	I	73	M	21.20310523	40	19.3267	Right colon																	
+11241	Stage_0	0	54	M	25.46938776	480	1229.5	Left colon																	
+11243	Healthy	-	40	M	27.37966468	480	0	-																	
+11253	MP	-	73	F	16.65249433	120	0	-																	
+11255	Healthy	-	47	M	26.17519452	0	76.6929	-																	
+11281	Stage_0	0	64	M	22.40587695	0	180	Left colon																	
+11294	Healthy	-	57	M	26.25958475	680	71.55	-																	
+11299	Healthy	-	54	M	23.52941176	170	38.5714	-																	
+11311	Healthy	Few_polyps	63	M	24.44180209	0	180	-																	
+11315	MP	MP	70	F	18.7961895	0	0	-																	
+11336	HS	-	70	F	20.504934	0	18.26	-																	
+11343	Healthy	Normal	44	F	21.63114885	0	733	-																	
+11354	Healthy	Normal	55	M	24.50894577	1700	1011.5	-																	
+11369	Healthy	Normal	55	M	21.2585034	245	121.95	-																	
+11379	Healthy	-	79	F	24.609375	0	40.6929	-																	
+11389	Healthy	Normal	38	M	22.4996371	0	0	-																	
+11407	MP	-	41	F	20.88888889	0	0	-																	
+11409	Healthy	-	54	F	20.23950076	0	0	-																	
+11413	Healthy	-	61	M	26.42356982	800	0	-																	
+11417	Stage_0	0	50	M	23.66143862	240	1446	Left colon																	
+11419	Healthy	-	55	M	22.91303307	0	174.214	-																	
+11423	Stage_0	0	66	M	28.9340689	900	0	Left colon																	
+11424	HS	-	65	F	27.09925101	0	73.6929	-																	
+11428	Stage_I_II	I	51	M	26.64359862	0	432.064	Rectum																	
+11431	Healthy	-	58	F	17.90885536	0	0	-																	
+11432	Healthy	-	74	M	24.609375	400	813	-																	
+11433	Stage_0	0	59	F	19.14672216	510	202.56	Left colon																	
+11434	Healthy	-	64	F	16.42365006	0	6.66667	-																	
+11438	Stage_0	0	61	F	17.84651993	255	199.95	Rectum																	
+11445	Stage_0	0	68	M	22.95908766	390	549.9	Right colon																	
+11448	Healthy	-	40	F	17.63085399	0	0	-																	
+11449	Healthy	-	46	F	20.3125	0	316.5	-																	
+11450	Healthy	-	72	M	22.94811574	900	0	-																	
+11451	Healthy	-	62	F	21.92612582	0	0	-																	
+11452	Healthy	-	47	M	21.4532872	360	646.5	-																	
+11453	Stage_0	0	71	F	18.49112426	1050	543.9	Left colon																	
+11454	Healthy	-	47	F	18.44254582	0	316.5	-																	
+11457	MP	-	65	M	19.72318339	0	27	-																	
+11458	MP	-	62	M	24.96800974	840	1266	-																	
+11459	Healthy	-	67	F	23.93606231	0	0	-																	
+11461	MP	-	74	F	20.13477975	980	633	-																	
+11462	MP	-	57	F	19.36849691	481	36.6667	-																	
+11464	Healthy	-	56	M	23.83673469	0	1320	-																	
+11467	Healthy	-	72	M	21.71925011	925	57.8	-																	
+11472	Stage_I_II	I	73	F	21.05170826	0	40.6929	Left colon																	
+11473	Healthy	-	54	M	27.33564014	780	554.95	-																	
+11475	Healthy	-	63	F	19.14672216	0	0	-																	
+11477	Healthy	-	75	M	20.13477975	1040	0	-																	
+11478	Stage_I_II	I	68	F	25.68370987	0	47.1214	Left colon																	
+11480	Healthy	-	66	F	23.03004535	660	0	-																	
+11486	Healthy	-	62	F	20.23950076	0	81.4286	-																	
+11487	Healthy	-	66	F	23.72528616	0	94.95	-																	
+11489	Healthy	-	55	M	23.56663223	800	1041.86	-																	
+11490	Stage_I_II	I	64	M	24.48979592	880	1626	Left colon																	
+11492	Healthy	-	69	F	23.53036634	0	0	-																	
+11495	Healthy	-	71	F	26.63495838	108	379.95	-																	
+11498	Stage_0	0	58	M	20.51508648	760	990	Rectum																	
+11501	Healthy	-	68	F	21.19274242	0	0	-																	
+11502	MP	-	63	F	21.22788762	0	194.95	-																	
+11508	MP	-	64	F	19.81784449	880	633	-																	
+11510	Stage_0	0	64	M	22.58955144	660	0	Right colon																	
+11511	MP	-	72	M	22.12973973	800	813	-																	
+11512	Stage_0	0	69	F	18.17867036	0	40.6929	Right colon																	
+11513	Healthy	-	37	M	19.26717144	340	746.036	-																	
+11518	MP	-	47	F	30.757401	300	780.214	-																	
+11521	Healthy	-	49	F	19.72386588	50	135.643	-																	
+11524	Healthy	-	31	M	39.32834034	160	271.286	-																	
+11526	Healthy	-	52	F	22.58270917	0	0	-																	
+11527	Healthy	-	35	F	22.18934911	0	3.6	-																	
+11528	Healthy	-	57	M	30.11621315	80	0	-																	
+11580	Healthy	-	21	F	17.89802289	0	0	-																	
+11607	Healthy	-	70	F	29.96432818	0	0	-																	
+11626	Healthy	-	50	M	21.46193662	50	12.66	-																	
+11638	Healthy	-	57	F	21.484375	40	270	-																	
+11641	Healthy	-	52	M	27.63605442	810	0	-																	
+11667	MP	-	67	M	25.39343112	470	0	-																	
+11675	Healthy	-	51	F	21.90758246	0	0	-																	
+11682	Healthy	-	61	F	17.087445	0	0	-																	
+11694	Healthy	-	63	F	17.89802289	0	0	-																	
+11710	Healthy	-	40	M	22.77318641	0	16.26	-																	
+11720	Healthy	-	70	M	17.96875	300	0	-																	
+11754	Healthy	-	27	M	24.96800974	0	328	-																	
+11788	Healthy	-	34	M	21.92810713	0	202.56	-																	
+11796	Healthy	-	75	F	30.21121884	0	0	-																	
+11817	Stage_I_II	II	75	M	21.30394858	880	0	Left colon																	
+11818	Healthy	-	37	M	22.12973973	0	0	-																	
+11819	Stage_0	0	72	M	24.91349481	100	0	Left colon																	
+11820	Stage_III_IV	III	49	F	19.28937927	0	539.786	Right colon																	
+11821	Healthy	-	52	F	17.90885536	0	104.979	-																	
+11822	Healthy	-	55	F	21.08281329	336	0	-																	
+11823	Stage_I_II	I	71	F	21.92886277	0	0	Right colon																	
+11826	Stage_III_IV	III	48	F	29.51593861	65	366.5	Left colon																	
+11829	Stage_III_IV	III	43	M	21.63331531	46	0	Rectum																	
+11831	Stage_III_IV	III	60	M	19.1953028	1020	406.5	Rectum																	
+11835	Stage_I_II	I	51	M	22.22906193	540	633	Right colon																	
+11836	Stage_0	0	69	M	22.75830678	540	994.714	Right colon																	
+11838	Stage_I_II	II	69	M	25.68007405	1040	20	Left colon and Right colon																	
+11851	Stage_0	0	76	M	21.92612582	0	238.779	Left colon																	
+11859	Stage_III_IV	III	64	F	25.33304989	1140	0	Rectum																	
+11873	Healthy	-	78	M	23.30905307	600	271.286	-																	
+11879	Stage_0	0	64	F	29.67657562	0	0	Right colon																	
+11881	Stage_I_II	II	63	F	23.55555556	700	0	Left colon																	
+11885	Healthy	-	73	M	22.89281998	0	320.571	-																	
+11888	Stage_I_II	II	71	M	21.0498179	1080	0	Left colon																	
+11891	Stage_0	0	72	F	20.32443826	120	0	Left colon																	
+11893	Stage_0	0	53	M	31.23140988	700	1626	Left colon and Right colon																	
+11899	Stage_III_IV	III	64	M	26.25958475	500	0	Left colon																	
+11900	Stage_I_II	I	59	M	28.06642387	0	573.493	Rectum																	
+11918	Stage_I_II	II	68	F	25.29937595	0	0	Left colon																	
+11920	Stage_III_IV	III	68	M	23.4375	1000	316.5	Left colon																	
+11921	Stage_III_IV	III	40	M	22.5981405	540	813	Right colon																	
+11922	Stage_III_IV	III	58	F	22.50692521	0	0	Rectum																	
+11927	Healthy	-	58	M	22.22906193	120	0	-																	
+11929	Stage_0	0	57	M	27.01685989	0	26.5267	Rectum																	
+11940	Stage_III_IV	III	61	M	27.10204082	0	140	Rectum																	
+11942	Healthy	-	76	F	21.50188649	200	25.9933	-																	
+11951	Stage_I_II	I	77	F	20.26935724	0	219.9	Right colon																	
+11955	Healthy	-	70	M	22.67995241	20	0	-																	
+11956	Stage_I_II	I	45	M	22.27530992	132	0	Rectum																	
+11957	Stage_III_IV	III	59	M	20.19946976	60	0	Rectum																	
+11965	Healthy	-	41	F	26.07897153	0	0	-																	
+11973	Stage_I_II	II	67	M	23.62444749	0	1266	Left colon																	
+11974	Stage_I_II	I	69	M	23.87511478	0	633	Right colon																	
+11982	Stage_III_IV	III	68	F	22.43230252	0	42.4286	Right colon																	
+11984	Healthy	-	62	M	21.70792339	80	78.2	-																	
+11993	Stage_0	0	73	F	21.49028551	0	0	Right colon																	
+11996	Healthy	-	51	F	21.23057202	0	42.8571	-																	
+12002	Stage_I_II	I	55	M	22.5981405	0	0	Right colon																	
+12005	Stage_III_IV	III	48	F	23.19109462	32	0	Right colon																	
+12011	HS	-	45	F	18.90359168	0	575.929	-																	
+12014	Stage_III_IV	III	59	M	25.95155709	140	172.779	Left colon and Rectum																	
+12016	Healthy	-	60	F	18.59012493	0	0	-																	
+12020	Stage_I_II	I	67	F	24.44444444	0	0	Left colon																	
+12022	Stage_I_II	II	74	F	23.55555556	0	0	Right colon																	
+12024	Stage_I_II	I	73	M	19.84126984	700	204.45	Right colon																	
+12025	Stage_I_II	II	46	F	20.54569362	0	575.929	Left colon																	
+12070	Healthy	-	49	F	20.82999519	0	83.8	-																	
+12082	Healthy	-	30	M	unknown	unknown	unknown	-																	
+12101	Healthy	-	56	M	24.09297052	0	1277.57	-																	
+12106	Healthy	-	77	F	21.92612582	0	0	-																	
+12165	Healthy	-	64	F	21.09375	0	475	-																	
+12197	Healthy	-	43	M	24.74093729	0	144.95	-																	
+12204	Healthy	-	55	F	19.77769867	460	0	-																	
+12242	Healthy	-	33	F	22.20633069	0	96.96	-																	
+12243	Healthy	-	74	F	19.9099723	0	0	-																	
+12276	Healthy	-	46	M	21.79944511	0	430	-																	
+12340	Healthy	-	59	M	26.53375883	0	989.9	-																	
+12370	Healthy	-	65	F	18.25631871	0	0	-																	
+12389	Healthy	-	35	M	24.22145329	220	633	-																	
+12396	Healthy	-	38	F	17.85062274	80	0	-																	
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
